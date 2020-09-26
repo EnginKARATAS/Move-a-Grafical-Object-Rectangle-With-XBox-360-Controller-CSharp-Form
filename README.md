@@ -3,7 +3,7 @@
 
 <h1>If you want to just copy paste this example</h1>
 
-C:\Users\sona\Documents\GitHub\Move-a-Grafical-Object-Rectangle--With-XBox-360-Controller-C--Form\gamepad1\Screenshot_5.png
+ 
 
  Before start:
 
